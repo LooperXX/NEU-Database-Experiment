@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/Servlet/Balance_Servlet.java" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/src/Servlet/Check_Servlet.java" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/src/Servlet/Correct_Servlet.java" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/src/Servlet/Detail_Servlet.java" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/src/Servlet/Meter_Servlet.java" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/src/Servlet/PayFee_Servlet.java" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/src/Servlet/Query_Servlet.java" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/web/login.jsp" dialect="OracleSqlPlus" />
+  </component>
+</project>
